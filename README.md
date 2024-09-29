@@ -1,3 +1,5 @@
+![SIONZEE Horizontal Logo](./Horizontal.svg)
+
 ## 👋 Hi there! I'm Sionzee
 
 I'm a software project lead developer with a passion for creating and collaborating on exciting projects. Currently, I’m focused on building my personal projects, especially **Mickle**.
