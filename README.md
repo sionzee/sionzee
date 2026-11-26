@@ -15,12 +15,12 @@ Most of my work happens on Evobug’s Forgejo: **[git.evobug.com/sionzee](https:
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| [Mickle](https://mickle.pro) | Private communication. A Rust desktop app on GPUI with no webview, end-to-end encrypted voice and video, self-hostable with federation. | In development |
-| [TKit](https://git.evobug.com/Evobug/TKit) | A Windows app that switches your Twitch stream category to match the active window. | Released, open source |
-| [Allcom Bot](https://git.evobug.com/Evobug/bot) | The modular Discord bot that runs Allcom: moderation, verification, virtual voice channels. | Released, MIT |
-| [FingrlixPlus](https://github.com/evobug-com/fingrlixplus) | A Chrome extension that adds nutrition analytics to fingrlix.com. | Released |
-| [Space Janitor](https://projects.sionzee.cz/#space-janitor) | A co-op game: keep a deep-space cargo hauler running while the crew sleeps. | In development |
-| [EvoEngine](https://projects.sionzee.cz/#engine) | Evobug’s own game engine and editor. C# on .NET 11, Vulkan, its own UI toolkit and shader pipeline. | In development |
+| [Mickle](https://evobug.games/mickle) | Private communication. A Rust desktop app on GPUI with no webview, end-to-end encrypted voice and video, self-hostable with federation. | In development |
+| [TKit](https://evobug.games/tkit) | A Windows app that switches your Twitch stream category to match the active window. | Released, open source |
+| [Allcom Bot](https://evobug.games/bot) | The modular Discord bot that runs Allcom: moderation, verification, virtual voice channels. | Released, MIT |
+| [FingrlixPlus](https://evobug.games/fingrlixplus) | A Chrome extension that adds nutrition analytics to fingrlix.com. | Released |
+| [Space Janitor](https://evobug.games/space-janitor) | A co-op game: keep a deep-space cargo hauler running while the crew sleeps. | In development |
+| [EvoEngine](https://evobug.games/spacejanitorce) | Evobug’s own game engine and editor. C# on .NET 11, Vulkan, its own UI toolkit and shader pipeline. | In development |
 
 The full catalogue is at [evobug.games](https://evobug.games).
 
